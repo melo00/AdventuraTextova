@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrikazZapni
+comment0.text=\r\n\r\n\ @author\ \ \ \ jm\u00E9no\ autora\r\n\ @version\ \ \ 0.00.000\r\n
+comment1.params=plan
+comment1.target=PrikazZapni(HerniPlan)
+comment1.text=\r\n\ \ Konstruktor\ t\u0159\u00EDdy\r\n\ \ \r\n\ \ @param\ plan\ hern\u00ED\ pl\u00E1n,\ ve\ kter\u00E9m\ se\ bude\ ve\ h\u0159e\ "zapni"\ \r\n
+comment2.params=parametry
+comment2.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment2.text=\r\n\ \ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ "zapni".\ Pou\u017E\u00EDv\u00E1\ se\ pro\ zapnut\u00ED\ hudby\r\n\ \ \r\n@param\ parametry\ -\ jako\ parametr\ se\ ud\u00E1v\u00E1\ co\ se\ m\u00E1\ zapnout\ -\ v\ na\u0161em\ p\u0159\u00EDpad\u011B\ hudba\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n@return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNazev()
+comment3.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=4
